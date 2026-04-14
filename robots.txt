@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://royal-visa88-uk.vercel.app/sitemap.xml
